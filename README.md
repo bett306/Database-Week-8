@@ -31,7 +31,7 @@ The database consists of the following tables:
 3. Open your MySQL client (e.g., MySQL Workbench).
 4. Run  the script.
 
-![My Image](https://github.com/bett306/Database-Week-8/blob/main/ERD%20Image.drawio)
+![My Image](ERD%20Image.drawio)
 
 
 
