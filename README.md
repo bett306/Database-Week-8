@@ -31,7 +31,8 @@ The database consists of the following tables:
 3. Open your MySQL client (e.g., MySQL Workbench).
 4. Run  the script.
 
-![My Image](ERD%20Image.drawio)
+
+![ERD Diagram](ERD%20Image.drawio.png)
 
 
 
