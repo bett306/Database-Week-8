@@ -11,7 +11,7 @@ This project implements a **Clinic Booking System** using MySQL. It models a rea
 - Associates services with each appointment
 - Enforces data integrity through constraints and relationships
 
-## 🗃️ Database Structure
+## Database Structure
 
 The database consists of the following tables:
 
@@ -24,12 +24,13 @@ The database consists of the following tables:
 | `appointment_service`| Join table for many-to-many relationship between appointments and services |
 
 
-## ⚙️ How to Setup
+## How to Setup
 
 1. Make sure you have MySQL installed.
 2. Clone this repository or download the `.sql` file.
 3. Open your MySQL client (e.g., MySQL Workbench).
-4. Run  the script :
+4. Run  the script.
+
 
 
    
