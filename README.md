@@ -23,15 +23,13 @@ The database consists of the following tables:
 | `appointment`        | Records appointments between patients and doctors|
 | `appointment_service`| Join table for many-to-many relationship between appointments and services |
 
-## Entity-Relationship Diagram (ERD)
-
-![ERD](A_two-dimensional_Entity-Relationship_Diagram_(ERD.png)
 
 ## ⚙️ How to Setup
 
 1. Make sure you have MySQL installed.
 2. Clone this repository or download the `.sql` file.
 3. Open your MySQL client (e.g., MySQL Workbench).
-4. Create the database or let the script handle it:
-   ```sql
-   CREATE DATABASE IF NOT EXISTS clinic_bookingDB;
+4. Run  the script :
+
+
+   
