@@ -31,6 +31,9 @@ The database consists of the following tables:
 3. Open your MySQL client (e.g., MySQL Workbench).
 4. Run  the script.
 
+![My Image](Image.drawio.png)
+
+
 
 
    
